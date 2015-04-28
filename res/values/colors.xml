@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="theme_color">#ffffffff</color>
+    <color name="messageEntryColor">#ff000000</color>
+    <color name="textColorSent">#ff000000</color>
+    <color name="textColorReceived">#ffffffff</color>
+    <color name="dateColorSent">#40000000</color>
+    <color name="dateColorReceived">#60ffffff</color>
+    <color name="drawerBackground">#ffffffff</color>
+    <color name="conversationTextColor">#ff010101</color>
+    <color name="dividerColor">#00000000</color>
+    <color name="conversationDividerColor">#00000000</color>
+    <color name="backgroundColor">#ffeeeeee</color>
+    <color name="link_color">#50000000</color>
+    <color name="messageHintColor">#ff848484</color>
+    <color name="actionbarTitle">#e6ffffff</color>
+    <color name="actionbarSubtitle">#66ffffff</color>
+    <color name="delayedSendingCircle">#ff33b5e5</color>
+    <color name="delayedSendingProgress">#ffffffff</color>
+    <color name="cancelBatch">#ff757575</color>
+    <color name="deleteBatch">#ffe91e63</color>
+    <color name="infoBatch">#ff039be5</color>
+    <color name="compose">#ff039be5</color>
+    <color name="statusBar">#ff027cb7</color>
+    <color name="navigationBar">#ff000000</color>
+</resources>
